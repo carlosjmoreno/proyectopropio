@@ -6,7 +6,7 @@
         <title>Carlos Contreras. Proyect Manager and Senior Web Developer</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
-        <meta content="Carlos Contreras. Proyect Manager y Desarrollador Web" name="description"/>
+        <meta content="Carlos Contreras. Proyect Manager y Desarrollador Web Senior" name="description"/>
         <meta content="Carlos Contreras" name="author"/>
 
         <!-- estilos globales de la página -->

@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="Carlos Contreras. Proyect Manager y Desarrollador Web Senior" name="description"/>
-        <meta content="Carlos Contreras" name="author"/>
+        <meta content="Carlos Contreras Moreno" name="author"/>
 
         <!-- estilos globales de la página -->
         <link href="http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet" type="text/css">
